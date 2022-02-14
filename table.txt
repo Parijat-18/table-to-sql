@@ -1,0 +1,11 @@
+Pno Description | Profit% | Unit QtyOnHand | ReorderLv1 | SellPrice | CostPrice
+
+PoO1 T-shirts 5 Piece | 200 50 350 250
+P345 Shirts 6 Piece 150 50 500 350
+P456 Jeans 5 Piece 100 20 600 450
+P786 Trousers 5 Piece 100 20 950 750
+P900 PullOvers | 2.5 Piece | 150 50 850 550
+P231 Denims 4 Piece | 80 30 600 450
+P965 LycraTops | 5 Piece 100 40 350 250
+P780 Skirts 5 Piece 70 30 300 175
+
