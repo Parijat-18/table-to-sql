@@ -10,7 +10,7 @@ import os
 pytesseract.pytesseract.tesseract_cmd = 'C:\\Program Files\\Tesseract-OCR\\tesseract.exe' # copy paste the tesseract exe path here.
 
 class table_to_sql:
-    def __init__(self ,table_name ,  img_path):
+    def __init__(self ,table_name ,  img_path=""):
         self.table_name = table_name #name of the table
         self.img_path = img_path #location of the table image
         self.txt_path = f"{os.path.split(self.img_path)[1][:-4]}.txt"
